@@ -1,7 +1,6 @@
 import cv2
 import os
 
-print("===== Image Utility =====")
 print("1. Convert image to grayscale")
 print("2. Delete an image file")
 print("3. Exit")
