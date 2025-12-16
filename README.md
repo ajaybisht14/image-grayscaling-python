@@ -17,3 +17,14 @@ Grayscale conversion is done using the luminosity method:
 
 Gray = 0.299R + 0.587G + 0.114B
 
+pip install -r requirements.txt
+
+image-grayscaling-python/
+│
+├── grayscale.py
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── screenshots/
+    ├── input_image.jpg
+    └── grayscale_output.jpg
