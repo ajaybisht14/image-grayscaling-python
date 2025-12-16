@@ -28,3 +28,5 @@ image-grayscaling-python/
 └── screenshots/
     ├── input_image.jpg
     └── grayscale_output.jpg
+
+Added a raw.jpg file with converted file ss.jpg
