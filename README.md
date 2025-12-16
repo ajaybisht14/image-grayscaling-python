@@ -29,4 +29,6 @@ image-grayscaling-python/
     ├── input_image.jpg
     └── grayscale_output.jpg
 
-Added a raw.jpg file with converted file ss.jpg
+Added a raw.jpg file with converted file ss.jpg and a cosoless.jpg
+
+
